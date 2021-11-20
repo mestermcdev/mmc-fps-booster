@@ -1,7 +1,7 @@
 # MMC FPS BOOSTER
 Szeretnél több fps-t a MesterMC-ben? akkor itt a megoldás.
 
-1) Menj rá a CODE gombra majd a downloadra, és töltsd le a fájlok, majd csomagold ki.
+1) Menj rá a "CODE" gombra majd a "download zipr"-re, és töltsd le a fájlok, majd csomagold ki.
 
 2) Le kell töltened a Python-t (https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab).
 
